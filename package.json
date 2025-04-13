@@ -1,0 +1,14 @@
+{
+  "name": "mock-web-app-repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "mock-design-system-repo": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "vite": "5.3.5",
+    "@builder.io/qwik": "^1.12.0",
+    "eslint-plugin-qwik": "^1.12.0",
+    "wrangler": "^3.0.0"
+  }
+}
