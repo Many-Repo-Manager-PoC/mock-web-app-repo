@@ -2,7 +2,7 @@
   "name": "mock-web-app-repo",
   "version": "1.0.0",
   "dependencies": {
-    "mock-design-system-repo": "^1.0.0"
+    "@many-repo-manager-poc/mock-design-system-repo": "8.0.5"
   },
   "devDependencies": {
     "prettier": "3.3.3",
