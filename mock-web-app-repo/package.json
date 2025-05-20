@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@many-repo-manager-poc/mock-design-system-repo": "^8.1.5"
+  }
+}
